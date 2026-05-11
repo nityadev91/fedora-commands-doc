@@ -15,7 +15,7 @@
         "editorCursor.foreground": "#1abc9c",
         "editor.selectionBackground": "#1abc9c33",
         "editor.lineHighlightBackground": "#2c3e5044",
-        "editorIndentGuide.background": "#34495e",
+        "editorIndentGuide.background1": "#34495e",
         "editorWidget.background": "#2c3e50",
         "editorWidget.border": "#1abc9c",
         "list.activeSelectionBackground": "#1abc9c",
